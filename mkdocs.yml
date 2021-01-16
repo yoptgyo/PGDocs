@@ -1,6 +1,6 @@
 site_name: PGDocs
 theme:
-  name: material
+  name: readthedocs
   highlightjs: false
   palette:
       primary: teal
